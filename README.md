@@ -1,1 +1,1 @@
-# Quiz-GAME--Python-
+# Puzzle-GAME--Python-
