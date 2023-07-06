@@ -6,7 +6,7 @@ print("|                    WORD PUZZLE GAME                      |")
 print("|              MADE BY NAVNEET BARANWAL                    |")
 print("------------------------------------------------------------")
 
-puzzle=["FRUIT", "WINDOW", "SPEAKER", "GOOGLE", "LAPTOP", "DESKTOP", "MONITOR", "WASHROOM", "BROTHER", "HOLDER", "TOM", "BEDROOM", "PIZZA", "HERO", "DEMON", "INTERNET", ]
+puzzle=["FRUIT", "WINDOW", "SPEAKER", "GOOGLE", "LAPTOP", "MOBILE", "TABLET", "MONITOR", "WASHROOM", "BROTHER", "HOLDER", "TOM", "BEDROOM", "PIZZA", "HERO", "DEMON", "INTERNET", ]
 
 # Function to Convert the List into Small Letter
 def lowerstr(str):
